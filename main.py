@@ -6,3 +6,6 @@ w = 24
 s = 13
 j = w+s
 print(j)
+
+number  = 0
+
